@@ -1,7 +1,4 @@
 # PracticeDemo
 
 
-AAAAAA
-AAAAAA
-BBBBBBB
-BBBBBBB
+
