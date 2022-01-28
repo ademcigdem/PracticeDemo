@@ -21,7 +21,10 @@ public class Practice {
     }
 
 
-
+    public void Hi_Everyone(){
+        System.out.println("Hi everyone");
+        System.out.println("Are you ready for more stuff");
+    }
 
 
 
