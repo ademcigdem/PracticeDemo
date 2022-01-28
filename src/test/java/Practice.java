@@ -26,9 +26,6 @@ public class Practice {
 
 
 
-    public static int test2(){
-        return "Welcome to World".length();
-    }
 
 
 
@@ -36,9 +33,9 @@ public class Practice {
 
 
 
-
-
-
+public static int testPlus(int a,int b){
+        return a+b;
+}
 
 
 
