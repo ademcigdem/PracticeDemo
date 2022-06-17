@@ -8,10 +8,7 @@ double sd=89.90;
    int i=5;
    int b=10; //from berkan
 
-      System.out.println("ihsan was here");
-      System.out.println("ihsan was here");
-      //from ihsan
-
+      System.out.println("b = " + b);
 
 
 
