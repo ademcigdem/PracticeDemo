@@ -7,5 +7,7 @@ public class Practice_Fatma {
         String name="Fatma";
         int num=43;
 
+
+        System.out.println("Hi guysss");
     }
 }
