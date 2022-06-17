@@ -1,16 +1,22 @@
 public class Group15 {
+  
+  
+  
+  
+  String str = "testing";
+  //comment
+
+  String name = "Songul";
 
 
 
-    String name = "Adam";
+
     String name1 = "Adam2";
     String name2 = "Adam3";
  String Name4 = "Ali";
  // explanation
 
 
-    String name = "Adam";
-    String name2 = "Adam2";
     String name3 = "Adam3";
 
 
@@ -20,4 +26,3 @@ public class Group15 {
 
 
 }
-
