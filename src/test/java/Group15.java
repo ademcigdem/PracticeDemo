@@ -9,8 +9,7 @@ public class Group15 {
  // explanation
 
 
-    String name = "Adam";
-    String name2 = "Adam2";
+
     String name3 = "Adam3";
 
 
