@@ -3,5 +3,8 @@ public class Practice_Fatma {
         System.out.println("Hello World");
 
         System.out.println("My first GitHub Practice");
+
+        String name="Fatma";
+        int num=43;
     }
 }
