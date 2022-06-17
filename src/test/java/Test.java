@@ -13,6 +13,7 @@ double sd=89.90;
       //from ihsan
 
 
+      System.out.println("b = " + b);
 
 
   }
