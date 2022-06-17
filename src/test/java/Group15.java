@@ -5,6 +5,8 @@ public class Group15 {
     String name2 = "Adam2";
     String name3 = "Adam3";
 
+    String str = "Daisy";
+
 
 
 
