@@ -77,6 +77,8 @@ public class Practice {
         return result.toLowerCase();
     }
 
+    // my git practices please read friends
+
 
 }
 
