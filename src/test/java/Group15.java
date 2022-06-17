@@ -19,6 +19,8 @@ public class Group15 {
 
     String name3 = "Adam3";
 
+    String gitHub = "commit";
+
 
 
 
