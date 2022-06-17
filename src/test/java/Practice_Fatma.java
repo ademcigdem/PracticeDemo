@@ -7,6 +7,5 @@ public class Practice_Fatma {
         String name="Fatma";
         int num=43;
 
-        boolean fff=false;
     }
 }
