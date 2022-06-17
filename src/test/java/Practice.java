@@ -1,8 +1,3 @@
-import java.util.ArrayList;
-import java.util.Collection;
-import java.util.Collections;
-import java.util.List;
-
 public class Practice {
     public static void main(String[] args) {
 
@@ -14,18 +9,14 @@ public class Practice {
 //        System.out.println(prime(5));
         System.out.println(reverse("Samra"));
 
+        // Roberto // From Sait
 
     }
 
 
     static int number;
 
-    public static int test1(int a, int b) {
-        int c = a * b + 5 % 2;
-        number++;
-        System.out.println("number " + number);
-        return c;
-    }
+
 
     public static int test1(int a, int b, int c) {
         c = (a + b) / 5;
@@ -33,6 +24,15 @@ public class Practice {
         System.out.println("number " + number);
         return c;
     }
+
+    public void Hi_Everyone(){
+        System.out.println("Hi everyone");
+        System.out.println("Are you ready for more stuff");
+    }
+
+
+
+
 
 
 //    public static int lenght() {
