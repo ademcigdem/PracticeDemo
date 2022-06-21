@@ -4,10 +4,12 @@ public class Practice_Fatma {
 
         System.out.println("My first GitHub Practice");
 
+
         String name="Fatma";
         int num=43;
 
 
         System.out.println("Hi guysss");
+
     }
 }
