@@ -21,6 +21,7 @@ public class BaseClass {
             sum += number;
         }
         System.out.println("max = " + max);
+        System.out.println("MAX = " + max);
         return sum;
     }
 
