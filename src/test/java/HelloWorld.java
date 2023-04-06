@@ -9,6 +9,12 @@ public class HelloWorld {
         System.out.println("Zubeyir was here second time");
         System.out.println("Irfan Was HERE");
         System.out.println("Irfan was here");
+        System.out.println("Zubeyir was here second time");
+        System.out.println("Zubeyir was here second time");
+        System.out.println("Zubeyir was here second time");
+        System.out.println("Mehmet was here second time");
+        System.out.println("Mehmet was here second time");
+        System.out.println("Mehmet was here second time");
 
     }
 }
