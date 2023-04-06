@@ -4,6 +4,9 @@ public class HelloWorld {
         System.out.println("Hello new World");
         System.out.println("Group-24 was here");
         System.out.println("Group-24 was here second time");
+        System.out.println("Group-24 was here always");
+        System.out.println("Group-24 was here sometimes");
+        System.out.println("Zubeyir was here second time");
         System.out.println("Zubeyir was here second time");
         System.out.println("Zubeyir was here third time");
         for (int i=0;i<=10;i++){
