@@ -8,6 +8,9 @@ public class BaseClass {
         System.out.println(allNumberTotal());
     }
 
+
+
+
     public static int allNumberTotal() {
         int[] list = {1, 2, 3, 4, 67};
         int sum = 0;
@@ -21,12 +24,17 @@ public class BaseClass {
         }
         System.out.println("max = " + max);
         System.out.println("MAX = " + max);
+        System.out.println("Selma");
         System.out.println("something new from berat");
         return sum;
     }
     public static void newFunction(int a){
+
         System.out.println("new additions, adding another  message");
         System.out.println("berat wrote this");
+
+        System.out.println("here is message");
+
     }
 
 }
