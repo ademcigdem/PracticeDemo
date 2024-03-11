@@ -24,7 +24,7 @@ public class BaseClass {
         return sum;
     }
     public static void newFunction(int a){
-        System.out.println("new additions");
+        System.out.println("changes from someone");
     }
 
 }
