@@ -8,6 +8,9 @@ public class BaseClass {
         System.out.println(allNumberTotal());
     }
 
+
+
+    
     public static int allNumberTotal() {
         int[] list = {1, 2, 3, 4, 67};
         int sum = 0;
@@ -26,5 +29,7 @@ public class BaseClass {
     public static void newFunction(int a){
         System.out.println("new additions, adding another  message");
     }
+
+    
 
 }
