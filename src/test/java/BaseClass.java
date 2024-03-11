@@ -24,10 +24,15 @@ public class BaseClass {
         }
         System.out.println("max = " + max);
         System.out.println("MAX = " + max);
+        System.out.println("Selma");
         return sum;
     }
     public static void newFunction(int a){
+
         System.out.println("new additions, adding another  message");
+
+        System.out.println("here is message");
+
     }
 
     
