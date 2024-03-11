@@ -10,7 +10,6 @@ public class BaseClass {
 
     public static int allNumberTotal() {
         int[] list = {1, 2, 3, 4, 67};
-
         int sum = 0;
         int max = list[0];
 
@@ -23,7 +22,9 @@ public class BaseClass {
         System.out.println("max = " + max);
         System.out.println("MAX = " + max);
         return sum;
-
+    }
+    public static void newFunction(int a){
+        System.out.println("new additions");
     }
 
 }
