@@ -1,12 +1,7 @@
 public class Practice {
     public static void main(String[] args) {
 
-//        System.out.println(test1(5, 4));
-//        System.out.println(test1(4, 6, 8));
-//        System.out.println(lenght());
-//        System.out.println(test3());
-//        System.out.println(test4());
-//        System.out.println(prime(5));
+
         System.out.println(reverse("Samra"));
 
         // Roberto // From Sait
