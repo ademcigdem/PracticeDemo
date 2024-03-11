@@ -21,10 +21,12 @@ public class BaseClass {
         }
         System.out.println("max = " + max);
         System.out.println("MAX = " + max);
+        System.out.println("something new from berat");
         return sum;
     }
     public static void newFunction(int a){
         System.out.println("new additions, adding another  message");
+        System.out.println("berat wrote this");
     }
 
 }
